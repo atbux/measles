@@ -2,3 +2,7 @@ measles_set_clean.csv
 cleanedConditionData.csv
 Measles_set.csv
 conditionGroupData.csv
+bootstraps.pkl
+ResultsBySample.csv
+StandardizedData.csv
+GroupedData.csv
