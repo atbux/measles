@@ -7,3 +7,5 @@ ResultsBySample.csv
 StandardizedData.csv
 GroupedData.csv
 ResultsBySampleHistograms.png
+ResultsBySameple.csv
+*.~lock.*#
