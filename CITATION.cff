@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "19th Century Measles: Relevance to the 21st Century"
+abstract: "Analysis code and datasets supporting the study of 19th-century measles and its relevance to the 21st century."
+authors:
+  - family-names: Buxser
+    given-names: Stephen
+    orcid: "https://orcid.org/0000-0002-1880-8855"
+  - family-names: Buxser
+    given-names: Aaron
+    orcid: "https://orcid.org/0000-0002-3733-6136"
+version: 1.0.0
+date-released: 2026-07-31
+license: CC-BY-4.0
+repository-code: "https://github.com/atbux/measles"
