@@ -1,0 +1,10 @@
+{
+  "title": "19th Century Measles: Relevance to the 21st Century",
+  "description": "Analysis code and datasets supporting the study of 19th-century measles and its relevance to the 21st century.",
+  "upload_type": "software",
+  "license": "cc-by-4.0",
+  "creators": [
+    { "name": "Buxser, Stephen", "orcid": "0000-0002-1880-8855" },
+    { "name": "Buxser, Aaron", "orcid": "0000-0002-3733-6136" }
+  ]
+}
